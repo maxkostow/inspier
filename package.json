@@ -1,0 +1,14 @@
+{
+  "name": "inspier",
+  "version": "0.0.0",
+  "author": "Max Kostow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxkostow/inspier"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "request": "*",
+    "cheerio": "*"
+  }
+}
