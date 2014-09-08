@@ -10,6 +10,10 @@ Generate inspirational quotes using a simple markoff chain
 
 ### Generate `quotes.json`
 
+#### 2 Chainz
+
+Use the included `quotes.json` which constains some 2 Chainz lyrics
+
 #### Provied your own
 
 ```javascript
