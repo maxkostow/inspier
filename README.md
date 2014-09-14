@@ -1,6 +1,6 @@
 # Inspirational Quote Generator
 
-Generate inspirational quotes using a simple markoff chain
+Generate inspirational quotes using a simple [Markov chain](http://en.wikipedia.org/wiki/Markov_chain)
 
 ## Installation
 
